@@ -15,7 +15,7 @@ namespace Ebuy.Website.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page. To napisałem ja!!!";
+            ViewBag.Message = "Your application description page. To napisałem ja!!! I jeszcze raz ja!!!";
 
             return View();
         }
